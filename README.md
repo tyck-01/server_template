@@ -8,7 +8,7 @@ This repo contains resources for a "base" ESX server utilizing oxmysql, ox_inven
 
 With that being said, right out the gate everything will be working/usable but of course configs will need to be tailored to your needs.
 
-[PREVIEW VIDEO](https://www.youtube.com/watch?v=mCVBKO9b_J8)
+
 
 ## MAIN Resources
 * [ox_inventory](https://github.com/overextended/ox_inventory)
