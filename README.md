@@ -42,4 +42,4 @@ USE `oxtemplate`;
 ## SUPPORT
 I will not be providing support for this. I will try and keep it updated when I can but if you struggle using this then you will struggle with more and you will need to figure out things for yourself. Don't be lazy, google, check cfx forums, ask in discords, etc...
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P57KRR9)
+
